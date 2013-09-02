@@ -3,7 +3,7 @@ IT_Outsourcing
 
 Тестовое задание
 
-Исользуемые внешние библиотеки:
+Используемые внешние библиотеки:
 http://framework.zend.com/
 http://foundation.zurb.com
 http://www.tinymce.com
